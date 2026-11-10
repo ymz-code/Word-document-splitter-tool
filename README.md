@@ -37,4 +37,9 @@
    - 日志框实时输出运行信息
    - 处理完毕弹出提示，查看成功/失败统计
 
+## 🚀 安装与启动
+### 克隆仓库
+```bash
+git clone https://github.com/ymz-code/Word-document-splitter-tool.git
+cd Word-document-splitter-tool
 
